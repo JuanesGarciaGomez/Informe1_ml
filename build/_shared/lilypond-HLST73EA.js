@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-JDDPODAA.js";import"/build/_shared/chunk-I232HDZP.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/Informe1_ml/build/_shared/chunk-JDDPODAA.js";import"/Informe1_ml/build/_shared/chunk-I232HDZP.js";import"/Informe1_ml/build/_shared/chunk-OZE3FFNP.js";export default a();
