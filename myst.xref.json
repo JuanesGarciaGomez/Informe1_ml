@@ -1,1 +1,1 @@
-{"version":"1","myst":"1.8.2","references":[{"kind":"page","data":"/content/informe.json","url":"/"}]}
+{"version":"1","myst":"1.8.2","references":[{"kind":"page","data":"/informe.json","url":"/"},{"identifier":"hola","kind":"heading","data":"/informe.json","url":"/","implicit":true},{"identifier":"holaaa","kind":"heading","data":"/informe.json","url":"/","implicit":true}]}
